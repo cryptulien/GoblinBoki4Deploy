@@ -919,7 +919,7 @@ function App() {
             <img src={selector} width="300" alt="O muche da ya mint"/>
           </div> 
           <textarea id="mintAmount" name="mintAmount">
-            
+            1
           </textarea>
 
           <div className="container_mint">
