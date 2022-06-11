@@ -930,11 +930,7 @@ function App() {
           <div className="container_connection">
             <button className="btn_connect" onClick={connect}>
               <img src={FrameConnect} width="280" alt="Connexctorzzz"/>
-            </button>
-          <div>
-            <p className="count">{data._totalMinted} / 10000</p>
-            <p className="cost">Each GoblinBoki NFT costs {data.cost / 10**18} eth (excluding gas fees)</p>
-          </div>  
+            </button> 
          </div> 
       </div>
     </div>
