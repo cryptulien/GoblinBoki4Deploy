@@ -132,3 +132,18 @@ textarea{
   color: #6F9C94;
   outline: none;
 }
+
+.mint_amount{
+  position: fixed;
+  top: 1000px;
+  right: 180px;
+}
+
+p{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'myFirstFont';
+  color: #ffffff;
+  background-color: transparent;
+}
+

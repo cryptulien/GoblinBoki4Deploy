@@ -931,6 +931,9 @@ function App() {
             <button className="btn_connect" onClick={connect}>
               <img src={FrameConnect} width="280" alt="Connexctorzzz"/>
             </button> 
+          <div className="mint_amount">
+            <p>{data._totalMinted}/10000 Erhz minted</p>  
+          </div>
          </div> 
       </div>
     </div>
